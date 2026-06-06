@@ -117,6 +117,10 @@ Currently architecting the backend of a **Layer 1 blockchain** for civic infrast
 | 🏅 **Mención Honorífica** — Best Graduation Project | I.U.P. Santiago Mariño | 2026 |
 
 ---
+## 🏆 Open Source Contributions
+
+- [PostGIS Workshops](https://github.com/postgis/postgis-workshops) - Documentation improvements (#163)
+- [PostGIS Workshops](https://github.com/postgis/postgis-workshops) - Spanish translation (welcome.rst)
 
 ## 📊 GitHub Stats
 
