@@ -148,3 +148,8 @@ Currently architecting the backend of a **Layer 1 blockchain** for civic infrast
 ![Profile Views](https://komarev.com/ghpvc/?username=KelvinW918&color=58a6ff&style=flat-square)
 
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KelvinW918/KelvinW918/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KelvinW918/KelvinW918/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/KelvinW918/KelvinW918/output/github-contribution-grid-snake.svg">
+</picture>
