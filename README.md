@@ -9,13 +9,11 @@
 ```bash
 $ kelvin --focus "AI Agents · Geospatial · Web3 Infrastructure"
 ```
-
-![Cum Laude](https://img.shields.io/badge/🏆_Cum_Laude-Feb_2026-DAA520?style=flat-square)
 ![Publicación](https://img.shields.io/badge/📜_Mención_Publicación-IUP_Santiago_Mariño-DAA520?style=flat-square)
 ![Location](https://img.shields.io/badge/📍_Venezuela-Remote_Ready-4493F8?style=flat-square)
 ![Open to Work](https://img.shields.io/badge/✅_Open_to_Work-Actively_Looking-3FB950?style=flat-square)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kelvin--williams-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kelvin-williams)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kelvin--williams-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kelvin-williams-5889ba344)
 [![GitHub](https://img.shields.io/badge/GitHub-KelvinW918-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KelvinW918)
 [![Email](https://img.shields.io/badge/Email-kelvinarturow918@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelvinarturow918@gmail.com)
 
@@ -30,13 +28,13 @@ kelvin = {
     "role":     "Systems Engineer & Product Architect",
     "location": "Venezuela 🇻🇪 — available remotely",
     "focus":    ["AI Agents", "Geospatial Systems", "Digital Twins 3D", "Web3 Infrastructure"],
-    "awards":   ["Cum Laude", "Mención Publicación", "Mención Honorífica"],
+    "awards":   ["Mención Publicación", "Mención Honorífica"],
     "english":  "B2 Advanced (EF SET 51/100)",
     "status":   "Open to senior/remote opportunities 🚀"
 }
 ```
 
-I'm a **Systems Engineer graduated Cum Laude** with a specialization in the automation of critical processes, data pipelines, and AI agents for operational optimization. I don't just build software — I build the intelligence layer that makes operations self-aware.
+I'm a Systems Engineer with a specialization in the automation of critical processes, data pipelines, and AI agents for operational optimization. I don't just build software — I build the intelligence layer that makes operations self-aware.
 
 Currently architecting the backend of a **Layer 1 blockchain** for civic infrastructure at Altrueer, where I design geospatial systems at scale using PostGIS, Uber H3, and TimescaleDB.
 
@@ -115,7 +113,6 @@ Currently architecting the backend of a **Layer 1 blockchain** for civic infrast
 
 | Award | Institution | Year |
 |-------|-------------|------|
-| 🥇 **Cum Laude** — Top Graduate | I.U.P. Santiago Mariño | 2026 |
 | 📜 **Mención Publicación** — Research Publication Award | I.U.P. Santiago Mariño | 2026 |
 | 🏅 **Mención Honorífica** — Best Graduation Project | I.U.P. Santiago Mariño | 2026 |
 
